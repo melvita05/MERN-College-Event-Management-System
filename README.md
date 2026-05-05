@@ -8,11 +8,13 @@ Create, update, and delete events
 Event registration system
 Dashboard for managing events
 Responsive UI
+
 🛠️ Tech Stack
 Frontend: React.js
 Backend: Node.js, Express.js
 Database: MongoDB
 Other Tools: Axios, JWT, Bootstrap/Tailwind
+
 📂 Project Structure
 
 client/ → React frontend
