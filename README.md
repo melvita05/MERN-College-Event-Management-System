@@ -31,13 +31,7 @@ npm install
 cd ../server
 npm install
 
-3. Setup environment variables
-
-Create a .env file in server folder and add:
-MONGO_URI=your_mongodb_connection
-JWT_SECRET=your_secret_key
-
-4. Run the project
+3. Run the project
 
 Frontend:
 npm start
