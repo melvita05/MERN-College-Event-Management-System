@@ -21,7 +21,7 @@ server/ → Express backend
 ⚙️ Installation
 1. Clone the repository
 
-git clone https://github.com/your-username/college-event-management.git
+git clone https://github.com/melvita05/college-event-management.git
 
 2. Install dependencies
 
