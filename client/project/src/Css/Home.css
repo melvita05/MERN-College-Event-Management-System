@@ -1,0 +1,31 @@
+.home-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%; /* Ensure container takes the full width */
+    box-sizing: border-box; /* Include padding in the element's total width and height */
+   
+}
+  
+  .main-content {
+    width: 100%; /* Ensure main content takes the full width */
+    position: relative;
+
+  }
+  
+  .carousel-with-text {
+    position: relative;
+  }
+  
+  .carousel-with-text h1 {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color:whitesmoke;
+    font-size: 2rem;
+    z-index: 1;
+  }
+  
+
+  
